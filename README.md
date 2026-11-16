@@ -1,5 +1,7 @@
 Smart Omapya
 
+email: smartomapya@gmail.com
+
 Exploring technology-driven solutions for agriculture
 
 Smart Omapya is a digital agriculture platform currently in development. The project explores how technology can support farmers and Agricultural Science learners through accessible digital tools and learning resources.
@@ -20,7 +22,8 @@ The project explores web development technologies, including HTML, CSS, JavaScri
 The final technology stack and features may change as development progresses.
 
 Development Status
-Status: Work in Progress
+Currently: Website Prototype
+Smart Omapya is looking for potential collaborators, software development experts and mentors.
 
 Smart Omapya is an ongoing personal development project. Features are still being developed, tested and improved. The planned features listed above are not necessarily fully implemented.
 
