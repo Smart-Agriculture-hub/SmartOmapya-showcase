@@ -17,13 +17,13 @@ Planned Features
 - Digital Learning Tools: Exploring ways to make agricultural knowledge easier to access.
 
 Technologies
-The project explores web development technologies, including HTML, CSS, JavaScript, Node.js and database integration.
+The project explores web development technologies, including HTML, CSS, JavaScript, PHP, and database integration.
 
 The final technology stack and features may change as development progresses.
 
 Development Status
-Currently: Website Prototype
-Smart Omapya is looking for potential collaborators, software development experts and mentors.
+- Currently: Website Prototype
+- Smart Omapya is looking for potential collaborators, software development experts and mentors.
 
 Smart Omapya is an ongoing personal development project. Features are still being developed, tested and improved. The planned features listed above are not necessarily fully implemented.
 
